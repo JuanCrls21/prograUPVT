@@ -53,6 +53,21 @@ h2{
 	width: auto;
 
 }
+#art1{
+	padding: 10px;
+	width: 350px;
+	height: 240px;
+}
+#art2{
+	padding: 10px;
+	width: 370px;
+	height: 226px;
+}
+#art3{
+	padding: 10px;
+	width: 350px;
+	height: 245px;
+}
 #principal{
 	display: none;
 }
