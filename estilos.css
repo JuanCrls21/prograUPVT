@@ -1,0 +1,58 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: cornflowerblue;
+}
+header{
+	background-color: blue;
+	color: white;
+	padding: 1em;
+	text-align: center;
+}
+ul{
+	padding: 0.4em;
+	text-align: center;
+	width: 100%;
+}
+li{
+	border: black 1px solid;
+	color: white;
+    background-color: darkorange;
+	display: inline-block;
+	padding: 0.3em;
+	width: 20%;
+}
+section{
+	text-align: center;
+}
+
+article{
+	border: 2px solid white;
+    color: white;
+    background-color: darkorange;
+	border-radius: 10px;
+	display: inline-block;
+	min-height: 200px;
+	padding: 0.8em;
+	vertical-align: top;
+	width: 30%;
+    text-align: justify;
+    margin: 5px;
+
+}
+h2{
+	color: white;
+	font-family: arial;
+	text-align: left;
+	padding: 2em;
+	margin: 10px;
+	height: auto;
+	width: auto;
+
+}
+#principal{
+	display: none;
+}
